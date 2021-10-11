@@ -1,0 +1,14 @@
+.message-col {
+    min-width: 13em;
+}
+
+.author-col {
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 500px) {
+    .message-col {
+        min-width: 8em;
+    }
+}
